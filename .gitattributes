@@ -1,1 +1,5 @@
+# SPDX-FileCopyrightText: 2021 FeRD (Frank Dana)
+#
+# SPDX-License-Identifier: CC0-1.0
+
 yolov3.weights filter=lfs diff=lfs merge=lfs -text
